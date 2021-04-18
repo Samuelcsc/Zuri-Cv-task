@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.resume_bg {
+  background-color: rgb(207, 207, 207);
+  padding-top: 0.1rem;
+}
+
+.resume_bg_2 {
+  background-color: white;
+  margin: 0 auto;
+  width: 50%;
+  padding: 5rem 3rem;
+}
+
+.top {
+  text-align: center;
+}
+
+h5 {
+  border-bottom: 0.2rem rgb(31 78 121) solid;
+  margin-top: 0.5rem;
+  color: rgb(31 78 121);
+}
+
+.profile {
+  margin-top: 3rem;
+}
+
+.section {
+  margin: 1rem 0;
+}
+
+span {
+  border-left: solid 1px black;
+  padding: 0 0.3rem;
+}
+
+ul {
+  padding: 0 2rem;
+}
+
+a {
+  color: rgb(24 106 197);
+  padding-left: 1.1rem;
+}
+
+.section p:nth-child(2) {
+  color: rgb(31 78 121);
+}
+
+i {
+  color: rgb(24 106 197);
+}
+
+.fa-home {
+  position: relative;
+  top: 1.1rem;
+  right: 7.4rem;
+}
+
+.fa-phone-alt {
+  position: relative;
+  top: 2.29rem;
+  right: 11.2rem;
+}
+
+.fa-envelope {
+  position: relative;
+  top: 2.4rem;
+  right: 2.3rem;
+}
